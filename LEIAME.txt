@@ -1,5 +1,5 @@
 Disponível no github:
-https://github.com/KenichiNishiya/study/tree/main/web/crud
+https://github.com/KenichiNishiya/js-crud
 
 Integrantes:
 Ian Pezzuol Dall'Aqua
